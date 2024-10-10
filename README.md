@@ -1,5 +1,5 @@
 # sostenibilidad
-![sostenibilidad](img/sostenibilidad.jpg)
+![sostenibilidad](img/sostenibilidad.png)
 ## U1: La sostenibilidad y el desarrollo sostenible
 
 1. Introducción
